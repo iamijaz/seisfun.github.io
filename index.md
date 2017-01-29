@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Software Engineering
 
-You can use the [editor on GitHub](https://github.com/iamijaz/seisfun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Art Beauty and Science
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
